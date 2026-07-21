@@ -1,7 +1,6 @@
 # TTY-Launcher
 A minimal Terminal-Inspired Android launcher.
 
-## App
 <div align="center">
   <h3>Interface Navigation</h3>
   <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
