@@ -7,14 +7,14 @@ A minimal Terminal-Inspired Android launcher.
 ## Calendar & Notifications
 <img width="720" height="1600" alt="Calendar   Notifications" src="https://github.com/user-attachments/assets/77208704-1aa9-4db4-a329-dbb052f2143e" />
 
-## Settings
-<img width="720" height="1600" alt="Settings" src="https://github.com/user-attachments/assets/e6ca6bd2-de65-404f-a85d-5de4624e7a56" />
-
 ## Quick Notes
 <img width="720" height="1600" alt="Quick Notes" src="https://github.com/user-attachments/assets/b194b60f-3077-4d58-ac17-988953bbc543" />
 
 ## Apps
 <img width="720" height="1600" alt="Apps" src="https://github.com/user-attachments/assets/2c5b74a6-1210-49e6-b446-6ea0ac4d9cfd" />
+
+## Settings
+<img width="720" height="1600" alt="Settings" src="https://github.com/user-attachments/assets/e6ca6bd2-de65-404f-a85d-5de4624e7a56" />
 
 
 ### Installation steps:
