@@ -1,35 +1,37 @@
-# OpenLauncher
+# TTY-Launcher
 A minimal Terminal-Inspired Android launcher.
 
 ## App
 <div align="center">
   <h3>Interface Navigation</h3>
-  <table>
+  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
     <!-- Fila Superior: Calendario -->
     <tr>
-      <td></td>
-      <td align="center">
+      <td style="border: none;"></td>
+      <td align="center" style="border: none;">
         <img src="https://github.com/user-attachments/assets/d6abedee-800d-4d4d-a56f-a1aa7020ae87" width="180" alt="Calendar"><br>
       </td>
-      <td></td>
+      <td style="border: none;"></td>
     </tr>
+    <!-- Fila Central: Notas, HomeScreen, Ajustes -->
     <tr>
-      <td align="center" valign="middle">
+      <td align="center" valign="middle" style="border: none;">
         <img src="https://github.com/user-attachments/assets/316def85-e556-43e2-bfa3-11142d3fce51" width="180" alt="Notes"><br>
       </td>
-      <td align="center" valign="middle">
+      <td align="center" valign="middle" style="border: none;">
         <img src="https://github.com/user-attachments/assets/8f548af0-368d-4ba4-bb57-0e2a463804ce" width="180" alt="HomeScreen">
       </td>
-      <td align="center" valign="middle">
+      <td align="center" valign="middle" style="border: none;">
         <img src="https://github.com/user-attachments/assets/256ce918-5f77-4177-bede-f8b2a341d6db" width="180" alt="Settings">
       </td>
     </tr>
+    <!-- Fila Inferior: Lista de Apps -->
     <tr>
-      <td></td>
-      <td align="center">
+      <td style="border: none;"></td>
+      <td align="center" style="border: none;">
         <img src="https://github.com/user-attachments/assets/8602171b-b43f-4a7f-ae10-9be9940c37ae" width="180" alt="App List">
       </td>
-      <td></td>
+      <td style="border: none;"></td>
     </tr>
   </table>
 </div>
